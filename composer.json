@@ -1,11 +1,14 @@
 {
     "name": "manhhung/userpackage",
     "description": "User package",
+    "keywords": ["user", "userpackage"],
+    "homepage": "https://github.com/HuynhHungManh/laravel-user",
     "type": "metapackage",
     "authors": [
         {
             "name": "Manh Hung",
-            "email": "hunghbm@greenglobal.vn"
+            "email": "hunghbm@greenglobal.vn",
+            "role": "Developer"
         }
     ],
     "license": "MIT",
