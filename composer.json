@@ -8,6 +8,7 @@
         {
             "name": "Manh Hung",
             "email": "hunghbm@greenglobal.vn",
+            "homepage": "https://github.com/HuynhHungManh",
             "role": "Developer"
         }
     ],
@@ -17,7 +18,10 @@
     },
     "autoload": {
         "psr-4": {
-            "hunghbm\\userpackage\\": "src/"
+            "hunghbm\\userpackage\\": "src"
         }
+    },
+    "autoload-dev": {
+        "classmap": []
     }
 }
